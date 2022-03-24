@@ -69,7 +69,7 @@ Consumption and Saving
 
 \[Barro\] Chapter 7.
 
-Hall, Robert E. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Stochastic Implications of the Life Cycle-Permanent Income Hypothesis: Theory and Evidence." (PDF - 1.6MB)](http://www.stanford.edu/~rehall/Stochastic-JPE-Dec-1978.pdf) _Journal of Political Economy_ 86, no. 6 (1978): 971.
+Hall, Robert E. ["Stochastic Implications of the Life Cycle-Permanent Income Hypothesis: Theory and Evidence." (PDF - 1.6MB)](http://www.stanford.edu/~rehall/Stochastic-JPE-Dec-1978.pdf) _Journal of Political Economy_ 86, no. 6 (1978): 971.
 
 
 {{< tdclose >}}
