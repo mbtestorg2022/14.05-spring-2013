@@ -22,8 +22,8 @@ Curriculum Information
 
 ### Prerequisites
 
-*   [_14.01 Principles of Microeconomics_](/courses/14-01sc-principles-of-microeconomics-fall-2011/)
-*   [_14.02 Principles of Macroeconomics_](/courses/14-02-principles-of-macroeconomics-spring-2014/)
+*   [_14.01 Principles of Microeconomics_](/courses/14-01sc-principles-of-microeconomics-fall-2011)
+*   [_14.02 Principles of Macroeconomics_](/courses/14-02-principles-of-macroeconomics-spring-2014)
 
 ### Requirements Satisfied
 

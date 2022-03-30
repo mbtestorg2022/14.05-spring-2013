@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 5735b51d-1d29-ff5d-c4bd-c908ee7b445b
 resourcetype: Image
 title: 14-05_classroom-2.jpg
 uid: d5e9a949-7a10-b5ec-81e2-a3e20f65d0c0
